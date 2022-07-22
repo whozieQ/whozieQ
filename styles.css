@@ -1,0 +1,38 @@
+body{
+    margin: 20px;
+}
+.card{
+    width: 400px;
+    margin: 0px  auto;
+    padding: 30px;
+    display: flex;
+    justify-content: space-around;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color:#2b2839;
+    background: linear-gradient(45deg,rgb(110, 110, 245),rgb(240, 113, 240));
+    border-bottom: 10px solid rgb(110,110,245);
+    border-radius: 6px;
+}
+.img-headshot{
+    width: 150px;
+    margin-right: 35px;
+}
+.blue-border{
+    border: 1px dotted blue;
+
+}
+.infotext{
+    text-align: center;
+}
+.easteregg{
+    text-align: end;
+    margin-top: 30px;
+    font-size: small;
+}
+.easteregg a{
+    text-decoration: none;
+}
+.easteregg a:hover{
+    color:white;
+}
+
