@@ -1,18 +1,3 @@
-<html>
-    <head>
-        <link rel="stylesheet" href="styles.css"/>
-    </head>
-    <body>
-        <h1>This is my personal digital business card.</h1>
-        <p>A project from Scrimba.com Module 2 of the Frontend Developer Career Path course</p>
-        <div class="card">
-            <img class="img-headshot" src="images/myheadshot.jpg" alt="Susan Briggs smiling at the camera wearing a Home Depot apron and her iconic bright fuscia cat-eye glasses">
-            <div class="infotext">
-                <h1>Susan Briggs</h1>
-                <p>Front End Developer</p>
-                <h3>Braselton, Georgia, USA</h3>
-                <div class="easteregg"><a target="_blank" href="https://en.wikipedia.org/wiki/The_Net_(1995_film)">&pi;</a></div>
-            </div>
-        </div>
-    </body>
-</html>
+I'm currently studying the Frontend Developer Career Path course on [Scrimba](http:\\scrimba.com)
+
+I have a few decades of software-related experience including agile project management, technical documentation writing, installer creation, SQL basics, PMG automation platform, C# basics, and other software lifecycle management concepts and methods over the years. But at the moment I've decided to really dig in and focus on getting a proper solid foundation in the skills and langauges for front end development as a way of expanding my areas of knowledge in my day job as an automation specialist at The Home Depot IT department.
